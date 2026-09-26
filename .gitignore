@@ -1,0 +1,32 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Fastlane
+fastlane/report.xml
+fastlane/test_output
+fastlane/screenshots/**/*.png
+*.mobileprovision
+*.p12
+*.p8
+*.cer
+
+# Ruby
+vendor/bundle/
+.bundle/
+
+# macOS
+.DS_Store
